@@ -53,7 +53,7 @@ a:hover {
   padding: 72px 24px 48px;
 }
 
-/* Header: bio on the left, square photo on the right */
+/* Header: bio on the left, circular photo on the right */
 
 .masthead {
   display: grid;
@@ -61,6 +61,8 @@ a:hover {
   align-items: start;
   gap: 40px;
   padding-bottom: 10px;
+
+  
 
 }
 
@@ -83,7 +85,7 @@ a:hover {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 50%;
 }
 
 .links {
