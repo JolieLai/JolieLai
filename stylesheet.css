@@ -123,7 +123,7 @@ a:hover {
 }
 .name-en {
   font-size: 48px;
-  font-weight: 400;
+  font-weight: 500;
   color: var(--text);        
   letter-spacing: -0.01em;
 }
